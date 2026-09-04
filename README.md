@@ -1,17 +1,16 @@
 # Flutter_Application_1
 
-A new Flutter project.
+A responsive profile application built as part of the App Dev Club onboarding tasks.
 
-## Getting Started
+## Key Features
+- **UI Design:** Glassmorphic card design with dark theme accents.
+- **Tech Stack Highlights:** Interactive badges showcasing core developer tools.
+- **Cross-Platform:** Executed and tested on Web (Chrome).
 
-This project is a starting point for a Flutter application.
+## Built With
+- **Framework:** Flutter
+- **Language:** Dart
+- **Tooling:** VS Code, Git CLI
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+**Developer:** Kanishk Saini
